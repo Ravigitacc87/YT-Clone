@@ -158,7 +158,7 @@ nav-left img{
     margin-right: 25px;
     margin-bottom: 25px;
     /* border: 2px solid green; */
-    width: 320px;
+    width: 318px;
     color: white;
 }
 
@@ -170,7 +170,7 @@ nav-left img{
     height: max-content;
 }
 .video-information-smaller{
-    width: 270px;
+    width: 260px;
     height: max-content;
 }
 .video-information h2{
