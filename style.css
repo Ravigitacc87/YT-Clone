@@ -135,6 +135,8 @@ nav-left img{
     padding-right: 2%;
     flex-wrap: wrap;
     z-index: -10;
+    
+    
 }
 .larger-maincontainer{
     /* border: 2px solid blue; */
@@ -143,6 +145,8 @@ nav-left img{
     padding-right: 2%;
     flex-wrap: wrap;
     z-index: 10;
+    
+    
 }
 .card{
     margin-top: 20px;
